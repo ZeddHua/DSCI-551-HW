@@ -1,0 +1,66 @@
+<category_table>
+  <category category_id="1">
+    <name>Action</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="2">
+    <name>Animation</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="3">
+    <name>Children</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="4">
+    <name>Classics</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="5">
+    <name>Comedy</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="6">
+    <name>Documentary</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="7">
+    <name>Drama</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="8">
+    <name>Family</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="9">
+    <name>Foreign</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="10">
+    <name>Games</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="11">
+    <name>Horror</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="12">
+    <name>Music</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="13">
+    <name>New</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="14">
+    <name>Sci-Fi</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="15">
+    <name>Sports</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+  <category category_id="16">
+    <name>Travel</name>
+    <last_update>2006-02-15 04:46:27</last_update>
+  </category>
+</category_table>
